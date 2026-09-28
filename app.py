@@ -2,7 +2,7 @@ import streamlit as st
 import sqlite3
 from datetime import datetime, date
 import pandas as pd
-khachsan.png
+st.sidebar.image("khachsan.png", use_container_width=True)
 # ============================================================
 # CẤU HÌNH APP
 # ============================================================
